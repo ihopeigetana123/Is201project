@@ -1,0 +1,16 @@
+
+body {font-size: 20px; color: darkblue;
+    font-family:monospace}
+ul {margin-left: 50px; 
+    font-size: 40px; color: mediumpurple;
+    text-decoration: underline}
+il {margin-left: 50px; 
+    font-size: 30px; color: darkseagreen}
+p {font-family: serif;
+    margin-left: 35px; 
+    margin-right: 20px; font-weight: 200;
+    font-size: 20px; color:darkseagreen; font-style: italic}
+a {font-size: 20px; color: firebrick}
+h2 {font-weight: bold;
+    margin-left: 50px;
+    font-size: 50px; color: lightcoral}
